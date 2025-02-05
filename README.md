@@ -10,7 +10,7 @@ Feel free to modify and adapt the notebooks to suit your specific requirements o
 
 1. Clone the Repository
 ```Bash
-git clone https://github.com/your-username/machine-design-calculations.git
+git clone https://github.com/mechanical-design/machinedesign.git
 ```
 Use code with caution.
 
